@@ -25,6 +25,3 @@ spring.datasource.username=enter your user_name
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.h2.console.enabled=true
-
-## Production URL
-http://46.28.44.46:8081/
